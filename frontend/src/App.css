@@ -1,0 +1,19 @@
+/* Add this to your App.css or index.css */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, #root {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+/* Make sure the App component doesn't have any padding/margin */
+.App {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
